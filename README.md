@@ -1,66 +1,31 @@
-# United Interns 实习生联合成就展示
 
-Joint Recruitment and Training of Open Source Interns under the Jiachen Project
-
-这个仓库用于甲辰计划联合实习生的成果存放和产出贡献登记。
-
-仓库的目录结构如下：
-
-
-```
-/-- README.md
-|
-|-- LICENSE
-|
-|-- github-id-of-intern-1
-  |
-  |-- Company/Institute A
-  | |
-  | |-- YYYY-MM.md # Monthly Report
-  |
-  |-- Company/Institute B
-    |
-    |-- YYYY-MM.md # Monthly Report
-```
 
 ## 实习单位名字
 
-实习单位的名称请使用以下标准名字，方便脚本自动化检索生成汇报：
-
-- `ISCAS` # 中国科学院软件研究所（智能软件研究中心（PLCT实验室））
-- `Sipeed` # 深圳矽速科技
 - `KUBUDS` # 上海苦芽科技
-- `INCHI` # 南京英麒智能
-- `Milk`-V # 深圳群芯闪耀
 
 ## 一些具体要求
 
 ISCAS 的月报格式要求：
 
 ```
-# 20YY 年 MM 月进展 - 实习生
+# 2026 年 8月进展 - 实习生
 
 实习生进展月度汇总
 
-## 姓名 (GitHub ID or Real Name)
+## 姓名 宫超
 
-### mentor (Optional)
 
 ### 本月工作总结
+调研报告
 
-一两句话总结。
 
 ### 本月提交的PR
-
-- 没有合并的放在这里；
-- 如果有已经合并的话，提交的PR不是必须提交的。
+https://github.com/GONGCHAO-HFUT/-intern-summer-2026/blob/main/%E5%85%B3%E4%BA%8E%E3%80%8A%E7%94%B5%E5%AD%90%E4%BF%A1%E6%81%AF%E5%88%B6%E9%80%A0%E4%B8%9A%E5%8F%91%E5%B1%95%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E8%A7%84%E5%88%92%E3%80%8B%E9%87%8D%E7%82%B9%E6%96%B9%E5%90%91%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf
 
 ### 本月合并的PR
-
-- 已经合并的放在这里。
-- 如果被 Upstream 接受，提交 Upstream 的 URL。
+无
 
 ### 其他交付物
+无
 
-- 如果有的话。
-```
